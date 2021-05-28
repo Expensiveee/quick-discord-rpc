@@ -5,8 +5,8 @@ client.on('ready', () => {
     client.request('SET_ACTIVITY', {
         pid: process.pid,
         activity: {
-            details: "Building bots for my server",
-            state: "Discovering Discord buttons",
+            details: "Details",
+            state: "State",
             assets: {
                 large_image: "radamyy",
                 large_text: "large_image_text"
@@ -23,9 +23,7 @@ client.on('ready', () => {
     });
 });
 
-//Create your new app if you don't jave one https://discord.com/developers/applications
-
 client.login({
-    clientId: '', //Applications  > click on your application > general infomration > copy & paste application id
-    clientSecret: '' //Applications  > click on your application > OAuth2 > copy & paste  client secret
+    clientId: '',
+    clientSecret: ''
 });

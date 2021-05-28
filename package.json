@@ -1,0 +1,33 @@
+{
+  "name": "quick-discord-rpc",
+  "version": "1.0.0",
+  "description": "Set your Discord rpc in a minute!",
+  "main": "index.js",
+  "dependencies": {
+    "discord-rpc": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Expensiveee/quick-discord-rpc.git"
+  },
+  "keywords": [
+    "Discord",
+    "rpc",
+    "discord-rpc",
+    "quick",
+    "discord",
+    "rpc",
+    "presence",
+    "discord"
+  ],
+  "author": "Expensiveee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Expensiveee/quick-discord-rpc/issues"
+  },
+  "homepage": "https://github.com/Expensiveee/quick-discord-rpc#readme"
+}
