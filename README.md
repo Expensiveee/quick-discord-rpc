@@ -15,7 +15,7 @@ Quick discord rpc will help you get a better discord presence in just a minute.
 
 By following the instructions step-by-step you will be the cooler of your friends 😎
 
-If you have any problem consider hitting me up on discord: Expensiveee#0620 or join my [Discord Server](https://discord.gg/8C4kjsGmrx)
+If you have any problem consider hitting me up on discord: Expensiveee#0001 or join my [Discord Server](https://discord.gg/8C4kjsGmrx)
 
 # Installation
 ### Requirements
